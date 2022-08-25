@@ -129,7 +129,7 @@
             <div class="card text-center">
                 <div class="card-header">
 
-                    Usuario: <%=cliente.obtenerNombre()%> - Cuenta: <%=cliente.obtenerCuenta()%>
+                    Cliente: <%=cliente.obtenerNombre()%> - Cuenta: <%=cliente.obtenerCuenta()%>
 
                 </div>
                 <div class="card-body">
