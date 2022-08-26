@@ -27,7 +27,7 @@
                 </div>
                 <div class="form-group">
                     <input type="number" class="form-control" name="tiempo" id="tiempo"
-                           placeholder="Ingrese años de la cuenta... " required>
+                           placeholder="Ingrese anios de la cuenta... " required>
                 </div>
                 <div class="form-group">
                     <label for="interes">Seleccione el interes</label>
@@ -69,7 +69,7 @@
         <br>
         <br>
         <div class="row">
-            <h3>Transacción</h3>
+            <h3>Transacciones</h3>
             <form action="ejercicio2.jsp" method="post">
                 <div class="form-group">
                     <label for="cuentaSeleccionar">Seleccione la cuenta</label>
@@ -91,7 +91,7 @@
                     </select>
                 </div>
                 <div class="form-group">
-                    <label for="transaccion">Transacción
+                    <label for="transaccion">Tipo de transaccion
                     </label>
                     <select class="form-control" name="transaccion">
                         <option value="1" selected>Retiro</option>
